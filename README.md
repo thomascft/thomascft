@@ -8,6 +8,3 @@ You can find my socials as follows
 - Linkedin: [thomascf](https://linkedin.com/in/thomascf/)
 - Email: [thomas.croft@pm.me](mailto://thomas.croft@pm.me) 
 
-### Projects
-I don't have much going on except for
-- [WidgetJS](https://github.com/thomascft/widgetjs)
