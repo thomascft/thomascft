@@ -1,6 +1,6 @@
 # Hi,
 
-I'm Thomas Croft. I'm 16 and live in the USA. I love music, gaming, and ricing. I've been daily driving linux for the past 3 years. 
+I'm Thomas Croft. Remind me to update my bio sometime soon.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomascft&show_icons=true&theme=tokyonight)
 
@@ -8,5 +8,5 @@ I'm Thomas Croft. I'm 16 and live in the USA. I love music, gaming, and ricing. 
 You can find my socials as follows
 - Discord: HashBang#8737
 - Linkedin: [thomascf](https://linkedin.com/in/thomascf/)
-- Email: [thomas.croft@proton.me](mailto://thomas.croft@pm.me) 
+- Email: [thomas.croft@proton.me](mailto://thomas.croft@proton.me) 
 
